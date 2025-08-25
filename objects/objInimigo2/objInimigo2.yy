@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"ObjInimigo",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"objInimigo2",
+  "eventList":[],
   "managed":true,
-  "name":"ObjInimigo",
+  "name":"objInimigo2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,20 +21,15 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[
-    {"x":0.0,"y":0.0,},
-    {"x":100.0,"y":0.0,},
-    {"x":100.0,"y":100.0,},
-    {"x":0.0,"y":100.0,},
-  ],
+  "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SprAssasino",
-    "path":"sprites/SprAssasino/SprAssasino.yy",
+    "name":"sprAssasino2",
+    "path":"sprites/sprAssasino2/sprAssasino2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
